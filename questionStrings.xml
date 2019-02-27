@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question1">Question 1. There should be complete collective ownership of the means of production.</string>
+    <string name="question2">Question 2. Central planning of the economy is ideal.</string>
+    <string name="question3">Question 3. All key industries ought to be nationalized.</string>
+    <string name="question4">Question 4. Enterprises should be directed by its workers instead of CEOs/shareholders.</string>
+    <string name="question5">Question 5. We need a mixed economy with heavy public ownership.</string>
+    <string name="question6">Question 6. Trade unions need to be strengthened.</string>
+    <string name="question7">Question 7. I support a welfare state to some degree.</string>
+    <string name="question8">Question 8. Public ownership pf utilities such as roads is ideal.</string>
+    <string name="question9">Question 9. Increases in taxes on the rich for social services is necessary.</string>
+    <string name="question10">Question 10. Sometimes, government intervention of the economy is needed.</string>
+
+    <string name="question11">Question 11. A totalitarian state is necessary for a strong nation.</string>
+    <string name="question12">Question 12. Nations work best when its members have a shared culture, race, etc.</string>
+    <string name="question13">Question 13. Forced repression of harmful ideologies is required for a functioning system.</string>
+    <string name="question14">Question 14. The state is a natural bulwark against disorder and chaos.</string>
+    <string name="question15">Question 15. Law and order are priorities for governance.</string>
+    <string name="question16">Question 16. Society is somewhat naturally hierarchical.</string>
+    <string name="question17">Question 17. Some liberties and freedoms are worth sacrificing to us safe.</string>
+    <string name="question18">Question 18. Patriotism is a virtue.</string>
+    <string name="question19">Question 19. A police force is a necessary authority in modern society.</string>
+    <string name="question20">Question 20. Nation-states must exist in the modern world.</string>
+
+    <string name="question21">Question 21. A totally free, unregulated market is the best economic system.</string>
+    <string name="question22">Question 22. Voluntary contracts serve as the foundations of any free society.</string>
+    <string name="question23">Question 23. The means of production must be privately owned.</string>
+    <string name="question24">Question 24. The freer the markets, the freer the people.</string>
+    <string name="question25">Question 25. We must minimize state intervention in the economy.</string>
+    <string name="question26">Question 26. Wage labor benefits everyone involved.</string>
+    <string name="question27">Question 27. Taxation is theft.</string>
+    <string name="question28">Question 28. Markets tend to be much more efficient in its distribution of goods and services than the state.</string>
+    <string name="question29">Question 29. A prices system is necessary for the distribution of goods and services.</string>
+    <string name="question30">Question 30. The concept of private property is reasonable in modern society.</string>
+
+    <string name="question31">Question 31. The state must be abolished in order to secure liberty and freedom.</string>
+    <string name="question32">Question 32. Nation-states are inherently violent and coercive.</string>
+    <string name="question33">Question 33. The state has a monopoly on the legitimate use of violence.</string>
+    <string name="question34">Question 34. Open borders is a reasonable concept.</string>
+    <string name="question35">Question 35. A weak, minimal state is key in protecting individual freedoms.</string>
+    <string name="question36">Question 36. Egalitarianism should be achieved by modern societies.</string>
+    <string name="question37">Question 37. Hierarchical structures are in most cases unjust.</string>
+    <string name="question38">Question 38. In principles, authority ought to be questioned.</string>
+    <string name="question39">Question 39. It is paramount to defend individual freedoms to some degree.</string>
+    <string name="question40">Question 40. We should be skeptical of state power.</string>
+
+
+</resources>
