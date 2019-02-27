@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="end_of_quiz">Congratulations! You\'re a </string>
+    <string name="left_centrist">Left Centrist</string>
+    <string name="neoliberal"> Neoliberal</string>
+    <string name="general_liberal">General Liberal</string>
+    <string name="progressive">Progressive</string>
+    <string name="social_liberal">Social Liberal</string>
+    <string name="general_socialist">General Socialist</string>
+    <string name="state_socialist">State Socialist</string>
+    <string name="left_communist">Left Communist</string>
+    <string name="general_communist">General Communist (Classical Marxist)</string>
+    <string name="orthodox_marxist">Orthodox Marxist</string>
+    <string name="trotskyist">Trotskyist</string>
+    <string name="marxist_leninist">Marxist-Leninist</string>
+    <string name="marxist_leninist_maoist">Marxist-Leninist-Maoist</string>
+    <string name="maoist">Maoist</string>
+    <string name="stalinist">Stalinist</string>
+
+    <string name="right_centrist">Right Centrist</string>
+    <string name="general_conservative">General Conservative</string>
+    <string name="neoconservative">Neoconservative</string>
+    <string name="paleoconservative">Paleoconservative</string>
+    <string name="libertarian_conservative">Libertarian Conservative</string>
+    <string name="right_populist">Right Populist</string>
+    <string name="hard_right_conservative">Hard Right Conservative</string>
+    <string name="alt_right_conservative">Alt-Right Conservative</string>
+    <string name="general_nationalist">General Nationalist</string>
+    <string name="civic_nationalist">Civic Nationalist</string>
+    <string name="ethno_nationalist">Ethno-Nationalist</string>
+    <string name="ultra_nationalist">Ultranationalist</string>
+    <string name="general_fascist">General Fascist</string>
+    <string name="corporatist">Corporatist</string>
+    <string name="monarchist">Monarchist</string>
+    <string name="fundamentalist">Fundamentalist</string>
+
+    <string name="classic_liberal">Classic Liberal</string>
+    <string name="libertarian_capitalist">Libertarian Capitalist (Right-Libertarian)</string>
+    <string name="agorist">Agorist</string>
+    <string name="voluntaryist">Voluntaryist</string>
+    <string name="minarchist">Minarchist</string>
+    <string name="right_individualist">Right Individualist</string>
+    <string name="paleolibertarian">Paleolibertarian</string>
+    <string name="anarcho_capitalist">Anarcho-Capitalist</string>
+
+    <string name="democratic_socialist">Democratic Socialist</string>
+    <string name="social_democrat">Social Democrat</string>
+    <string name="libertarian_socialist">Libertarian Socialist (Left-Libertarian)</string>
+    <string name="communalist">Communalist</string>
+    <string name="social_anarchist">Social Anarchist (Classic Collectivist)</string>
+    <string name="general_anarchist">General Anarchist</string>
+    <string name="anarcho_communist">Anarcho-Communist</string>
+    <string name="anarcho_syndicalist">Anarcho-Syndicalist</string>
+    <string name="mutualist">Mutualist</string>
+    <string name="anarcho_primitivist">Anarcho-Primitivist</string>
+    <string name="egoist">Egoist</string>
+    <string name="left_market_anarchist">Left Market Anarchist</string>
+    <string name="left_individualist">Left Individualist</string>
+
+    <string name="centrist">Centrist</string>
+    <string name="general_collectivist">General Collectivist</string>
+    <string name="general_authoritarian">General Authoritarian</string>
+    <string name="general_capitalist">General Capitalist</string>
+    <string name="general_libertarian">General Libertarian</string>
+
+</resources>
